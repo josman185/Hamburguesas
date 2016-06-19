@@ -12,6 +12,8 @@
 		04F3FC0A1D1359CE00E78EB9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04F3FC081D1359CE00E78EB9 /* Main.storyboard */; };
 		04F3FC0C1D1359CE00E78EB9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04F3FC0B1D1359CE00E78EB9 /* Assets.xcassets */; };
 		04F3FC0F1D1359CE00E78EB9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04F3FC0D1D1359CE00E78EB9 /* LaunchScreen.storyboard */; };
+		04F3FC171D1359F900E78EB9 /* Datos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04F3FC161D1359F900E78EB9 /* Datos.swift */; };
+		04F3FC191D1364D800E78EB9 /* ColoresStruct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04F3FC181D1364D800E78EB9 /* ColoresStruct.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		04F3FC0B1D1359CE00E78EB9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04F3FC0E1D1359CE00E78EB9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04F3FC101D1359CE00E78EB9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04F3FC161D1359F900E78EB9 /* Datos.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Datos.swift; sourceTree = "<group>"; };
+		04F3FC181D1364D800E78EB9 /* ColoresStruct.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColoresStruct.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				04F3FC0B1D1359CE00E78EB9 /* Assets.xcassets */,
 				04F3FC0D1D1359CE00E78EB9 /* LaunchScreen.storyboard */,
 				04F3FC101D1359CE00E78EB9 /* Info.plist */,
+				04F3FC161D1359F900E78EB9 /* Datos.swift */,
+				04F3FC181D1364D800E78EB9 /* ColoresStruct.swift */,
 			);
 			path = Hamburguesas;
 			sourceTree = "<group>";
@@ -137,6 +143,8 @@
 			files = (
 				04F3FC071D1359CE00E78EB9 /* ViewController.swift in Sources */,
 				04F3FC051D1359CE00E78EB9 /* AppDelegate.swift in Sources */,
+				04F3FC191D1364D800E78EB9 /* ColoresStruct.swift in Sources */,
+				04F3FC171D1359F900E78EB9 /* Datos.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
